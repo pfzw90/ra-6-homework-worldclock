@@ -5,8 +5,7 @@ import shortid from 'shortid'
 import Clock from './Clock/Clock'
 import './WorldClock.css'
 
-    const TIMEZONES = data.default
-    console.log(TIMEZONES[0])
+const TIMEZONES = data.default;
   
     
 
